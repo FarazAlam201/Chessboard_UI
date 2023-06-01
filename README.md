@@ -1,16 +1,10 @@
-# sample_application
+# Chessboard_UI
+Simple Flutter UI task to make Chess Board using only container, row, column widgets.
+### **ScreenShot**
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/FarazAlam201/Chessboard_UI/assets/90208567/8bb9c0d5-7986-4be7-8cfd-5ae3f7b38e69" width="200" height="400" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
